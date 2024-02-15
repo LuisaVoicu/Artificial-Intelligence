@@ -1,0 +1,37 @@
+1. Se da o lista de tuple, fiecare tupla continand un numar n de stringuri. Gasiti tupla in care lungimea 
+stringurilor sa fie cea mai mare. Ulterior, extrageti ultimul string din tupla si returnati un string continand
+concatenarea de 3 ori a jumatatii stangi de caractere ale stringului.
+
+Exemplu: lista = [("ab", "123456", "lok"), ("epustuflant", "rapso918!", "incomprehensibil"), ("12!", "vestejel")]
+	 => functie(lista) => "incompreincompreincompre"
+
+2. Se dau doua fisiere (A si B). Sa se creeze un al treilea fisier in care sa se insereze alternativ cate o linie din fisierul
+A, respectiv din B. Ulterior, sa se gaseasca frecventa fiecarui caracter. A se stoca intr-un dictionar.
+
+File A			File B
+ana are			fanica merge
+mere multe		des la munte	
+bune si rele		cu prietenii
+			dar si singur.
+			trist
+
+File C
+ana are
+fanica merge
+mere multe
+des la munte
+bune si rele
+cu prietenii
+dar si singur.
+trist
+
+
+3. Se da clasa Universitate. Are definite numele, numarul maxim de facultati, anul infiintarii. Facultatea are definite
+nume, anul infiintarii, si o lista de angajati. Clasa angajat are definit nume, prenume, profesie si salar. 
+
+a. Creati 2 facultati. Angajati in cadrul fiecarei facultati 3 pers. Ulterior, afisati tot personalul unei facultati
+b. O pers demisioneaza
+c. Calculati suma totala a salariilor din Universitate
+
+
+

@@ -1,0 +1,5 @@
+Ana 10
+Bianca 9.3
+Marian 8.2
+Alex 9.3
+Cristi 9.3
